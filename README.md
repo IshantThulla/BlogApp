@@ -31,6 +31,10 @@
     <li>User authentication: Users can create accounts and log in securely.</li>
     <li>Post creation: Users can create posts by providing a title, summary, and description.</li>
     <li>Post management: Authors can edit or delete their posts after publishing them.</li>
+
+![image](https://github.com/IshantThulla/BlogApp/assets/50027811/493eb333-6223-4ab5-b2d6-8107482f9eb8)
+
+    
     <li>Public access: Published posts are displayed on the home page and can be viewed by anyone.</li>
     <li>Author permissions: Only the author of a post can edit or delete it.</li>
 </ul>
@@ -40,7 +44,7 @@
 <p>To run the Blog App locally, follow these steps:</p>
 
 <ol>
-    <li>Clone the repository: <code>git clone &lt;repository_url&gt;</code></li>
+    <li>Clone the repository: <code>git clone &lt;[repository_url](https://github.com/IshantThulla/BlogApp.git)&gt;</code></li>
     <li>Navigate to the project directory: <code>cd blog-app</code></li>
     <li>Install dependencies: <code>npm install</code></li>
     <li>Set up environment variables (e.g., database connection URL, secret key)</li>
