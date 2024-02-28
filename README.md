@@ -33,20 +33,20 @@
 ![web1](https://github.com/IshantThulla/BlogApp/assets/50027811/60fd9e15-6ac5-474a-9fe4-25bb075592ef)
 
     
-    <li>Post creation: Users can create posts by providing a title, summary, and description.</li>
+<li>Post creation: Users can create posts by providing a title, summary, and description.</li>
 
 ![image](https://github.com/IshantThulla/BlogApp/assets/50027811/6a14a59b-3af4-4af9-bed3-db24fd1697bb)
 
-    <li>Post management: Authors can edit or delete their posts after publishing them.</li>
+ <li>Post management: Authors can edit or delete their posts after publishing them.</li>
 
 ![22](https://github.com/IshantThulla/BlogApp/assets/50027811/74a06cb2-4aa2-48ac-b0b1-56ca1b8a7731)
 
     
-    <li>Public access: Published posts are displayed on the home page and can be viewed by anyone.</li>
+ <li>Public access: Published posts are displayed on the home page and can be viewed by anyone.</li>
 
 ![image](https://github.com/IshantThulla/BlogApp/assets/50027811/493eb333-6223-4ab5-b2d6-8107482f9eb8)
     
-    <li>Author permissions: Only the author of a post can edit or delete it.</li>
+<li>Author permissions: Only the author of a post can edit or delete it.</li>
 </ul>
 
 <h2 id="installation">Installation</h2>
